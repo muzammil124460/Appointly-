@@ -258,7 +258,7 @@ npm run dev
 ## 🔗 Related Repositories
 
 - Frontend: [supportai-frontend](https://github.com/username/supportai-frontend)
-- Backend: this repository
+- Backend:  [supportai-frontend](https://github.com/muzammil124460/Appointly-server)
 
 ---
 
